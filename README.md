@@ -26,6 +26,7 @@ Before you can run this script, ensure you have the following set up:
 4. **Python**:
    - Ensure Python is installed on your system.
    - Install the required Python packages:
+   
      ```bash
      pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
      ```
@@ -54,6 +55,7 @@ To run the script, use the following command:
 
 ```bash
 python main.py
+```
 
 ---
 © 2024 OREMIS NPO - All rights reserved.
