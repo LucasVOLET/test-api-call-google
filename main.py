@@ -8,7 +8,7 @@ SERVICE_ACCOUNT_FILE = 'credentials.json'
 SCOPES = ['https://www.googleapis.com/auth/admin.directory.user.readonly']
 
 # L'adresse email de l'administrateur pour lequel les permissions ont été déléguées
-ADMIN_EMAIL = 'lucas.volet@oremis.fr'
+ADMIN_EMAIL = 'emailadmin@domain.fr'
 
 # Charger les informations d'identification du compte de service
 credentials = service_account.Credentials.from_service_account_file(
