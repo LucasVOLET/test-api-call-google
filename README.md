@@ -1,3 +1,7 @@
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/NPO-OREMIS-blue" alt="NPO"></a>
+</p>
+
 # Google Workspace User List Script
 
 This Python script retrieves and displays a list of users from a Google Workspace domain using the Google Admin SDK. It utilizes a service account to authenticate and access the directory information in read-only mode.
@@ -50,3 +54,7 @@ To run the script, use the following command:
 
 ```bash
 python main.py
+
+---
+© 2024 OREMIS NPO - All rights reserved.
+---
